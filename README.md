@@ -3,7 +3,7 @@
 ## Overview
 The Interactive Data Explorer is a tool designed to help users visualize and analyze data interactively. It provides a user-friendly interface for exploring datasets, creating visualizations, and gaining insights.
 
-[**LIVE LINK :**](https://interactive-data-explorer-rahul713rk.streamlit.app/)
+[**STREAMLIT APP LINK**](https://interactive-data-explorer-rahul713rk.streamlit.app/)
 
 ## Features
 - Interactive charts and graphs
