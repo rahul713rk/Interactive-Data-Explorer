@@ -3,6 +3,8 @@
 ## Overview
 The Interactive Data Explorer is a tool designed to help users visualize and analyze data interactively. It provides a user-friendly interface for exploring datasets, creating visualizations, and gaining insights.
 
+[**LIVE LINK :**](https://interactive-data-explorer-rahul713rk.streamlit.app/)
+
 ## Features
 - Interactive charts and graphs
 - Data filtering and sorting
@@ -14,21 +16,20 @@ To install the Interactive Data Explorer, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/rahul713rk/interactive-data-explorer.git
+    git clone https://github.com/rahul713rk/Interactive-Data-Explorer.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd interactive-data-explorer
+    cd Interactive-Data-Explorer
     ```
 3. Install the required dependencies:
     ```bash
-    npm install
+    pip3 install -r requirements.txt
     ```
 
 ## Usage
-To start using the Interactive Data Explorer, run the following command:
-```bash
-npm start
+To
+streamlit run main.py
 ```
 Open your web browser and navigate to `http://localhost:3000` to access the application.
 
@@ -54,4 +55,4 @@ We welcome contributions to the Interactive Data Explorer. To contribute, please
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, please contact [rahulkumar713rk@gmail.com.com](mailto:rahulkumar713rk@gmail.com.com).
+For any questions or feedback, please contact [rahulkumar713rk@gmail.com.com](mailto:rahulkumar713rk@gmail.com).
